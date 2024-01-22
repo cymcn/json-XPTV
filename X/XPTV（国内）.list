@@ -1,0 +1,107 @@
+#[policy]
+#static=XPTV(国内), server-tag-regex=^(?!(中国|🇨🇳|CN|套餐到期)), img-url=https://raw.githubusercontent.com/fangkuia/XPTV/main/X/XPTV1.png
+#[filter_remote]
+#https://raw.githubusercontent.com/fangkuia/XPTV/main/X/XPTV1%EF%BC%88%E5%9B%BD%E5%86%85%EF%BC%89.list,tag=XPTV(国内),  update-interval=86400, opt-parser=true, enabled=true
+#玩偶哥哥（直连）
+host-suffix, wogg.link, DIRECT
+host-suffix, wogg.xyz, DIRECT
+#小纸条（直连）
+host-suffix, gitcafe.net, DIRECT
+#jojo（直连）
+host-suffix, jiohub.top, DIRECT
+#厂长资源（直连）
+host-suffix, czzy88.com, DIRECT
+host-suffix, czzy22.com, DIRECT
+host-suffix, czzy66.com, DIRECT
+#在线之家（直连）
+host-suffix, zxzja.com, DIRECT
+host-suffix, zxzjhd.com, DIRECT
+host-suffix, zxzj.pro, DIRECT
+#低端影视（直连）
+host-suffix, ddys.pro, DIRECT
+host-suffix, ddys.mov, DIRECT
+#欧乐影院（代理）
+host-suffix, olevod.com, PROXY
+#海外看（代理）
+host-suffix, haiwaikan.com, PROXY
+#天翼资源（代理）
+host-suffix, 911ysw.top, PROXY
+#索尼资源（直连）
+host-suffix, suoniapi.com, DIRECT
+#非凡资源（直连）
+host-suffix, ffzyapi.com, DIRECT
+#红牛资源（直连）
+host-suffix, hongniuzy2.com, DIRECT
+#量子资源（直连）
+host-suffix, lziapi.com, DIRECT
+#快车资源（直连）
+host-suffix, kczyapi.com, DIRECT
+#三九影視（直连）
+host-suffix, 39kan.com, DIRECT
+#闪电资源（直连）
+host-suffix, sdzyapi.com, DIRECT
+#樱花资源（直连）
+host-suffix, apiyhzy.com, DIRECT
+#卧龙资源（直连）
+host-suffix, wolongzyw.com, DIRECT
+#飘花影院（直连）
+host-suffix, ahjiuman.com, DIRECT
+#虎牙资源（直连）
+host-suffix, huyaapi.com, DIRECT
+#百度资源（直连）
+host-suffix, apibdzy.com, DIRECT
+#飘零影院（直连）
+host-suffix, p2100.net, DIRECT
+#无尽资源（直连）
+host-suffix, wujinapi.com, DIRECT
+#速博资源（直连）
+host-suffix, subocaiji.com, DIRECT
+#乐视资源（直连）
+host-suffix, leshizyapi.com, DIRECT
+#探索页（直连）
+host-suffix, infuseku.xyz, DIRECT
+#魔都动漫（直连）
+host-suffix, moduapi.cc, DIRECT
+#最大资源（直连）
+host-suffix, zuidazy.me, DIRECT
+#奇虎资源（直连）
+host-suffix, qhzyapi.com, DIRECT
+#火狐资源（直连）
+host-suffix, hhzyapi.com, DIRECT
+#享看资源（直连）
+host-suffix, xkanzy10.com, DIRECT
+#新浪资源（直连）
+host-suffix, xinlangapi.com, DIRECT
+#快云资源（直连）
+host-suffix, kuaiyunzy.com, DIRECT
+#四圈资源（直连）
+host-suffix, fenwe078.cf, DIRECT
+#哔嘀影视（直连）
+host-suffix, bdys10.com, DIRECT
+#厂长&低端播放
+host-suffix, cz01.site, direct
+host-suffix, larksuitecdn.com, direct
+host-suffix, fotile.com, direct
+host-suffix, pstatp.com, direct
+host-suffix, ugdtimg.com, direct
+host-suffix, ctyunxs.cn, direct
+host, wxsnsencsvp.wxs.qq.com, direct
+#哔嘀播放
+host-suffix, ibytedtos.com, direct
+host-suffix, toutiao50.com, direct
+host-suffix, ibyteimg.com, direct
+#阿里播放
+host-suffix, alicloudccp.com, direct
+host, openapi.aliyundrive.com, direct
+host, auth.aliyundrive.com, direct
+host, api.aliyundrive.com, direct
+#豆瓣封面
+host-suffix, doubanio.com, direct
+#同步数据
+host, gateway.icloud.com, direct
+
+
+
+
+
+
