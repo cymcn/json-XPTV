@@ -1,7 +1,7 @@
 #[policy]
 #static=XPTV(国内), server-tag-regex=^(?!(中国|🇨🇳|CN|套餐到期)), img-url=https://raw.githubusercontent.com/fangkuia/XPTV/main/X/XPTV1.png
 #[filter_remote]
-#https://raw.githubusercontent.com/fangkuia/XPTV/main/X/XPTV1%EF%BC%88%E5%9B%BD%E5%86%85%EF%BC%89.list,tag=XPTV(国内),  update-interval=86400, opt-parser=true, enabled=true
+#https://raw.githubusercontent.com/fangkuia/XPTV/main/X/QuantumultX.list,tag=XPTV(国内),  update-interval=86400, opt-parser=true, enabled=true
 #玩偶哥哥（直连）
 host-suffix, wogg.link, DIRECT
 host-suffix, wogg.xyz, DIRECT
@@ -78,6 +78,8 @@ host-suffix, kuaiyunzy.com, DIRECT
 host-suffix, fenwe078.cf, DIRECT
 #哔嘀影视（直连）
 host-suffix, bdys10.com, DIRECT
+#快看资源（直连）
+host-suffix, kuaikanzy.net, DIRECT
 #厂长&低端播放
 host-suffix, cz01.site, direct
 host-suffix, larksuitecdn.com, direct
