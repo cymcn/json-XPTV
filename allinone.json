@@ -1,0 +1,544 @@
+{
+  "sites": [
+    {
+      "name": "360|点播",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod/"
+    },
+    {
+      "name": "飞刀|点播",
+      "type": 1,
+      "api": "http://www.feidaozy.com/api.php/provide/vod/"
+    },
+    {
+      "name": "墨斗|点播",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "黑木耳|点播",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/"
+    },
+    {
+      "name": "华为吧|点播",
+      "type": 1,
+      "api": "https://hw8.live/api.php/provide/vod/"
+    },
+    {
+      "name": "金鹰|点播",
+      "type": 1,
+      "api": "https://jinyingzy.com/api.php/provide/vod/"
+    },
+    {
+      "name": "丽丽|点播",
+      "type": 1,
+      "api": "https://lililili.cc/api.php/provide/vod/"
+    },
+    {
+      "name": "乐视|点播",
+      "type": 1,
+      "api": "https://leshiapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "爱酷|点播",
+      "type": 1,
+      "api": "https://cj.json.icu/aiku.php/provide/vod/"
+    },
+    {
+      "name": "暴风|点播",
+      "type": 1,
+      "api": "https://app.dybfun.com/api.php/provide/vod/"
+    },
+    {
+      "name": "鱼乐|点播",
+      "type": 1,
+      "api": "https://api.ylzy.me/api.php/provide/vod/"
+    },
+    {
+      "name": "OK|点播",
+      "type": 1,
+      "api": "https://okzyw9.com/api.php/provide/vod/"
+    },
+    {
+      "name": "宝片|点播",
+      "type": 1,
+      "api": "https://zpsps.com/api.php/provide/vod/"
+    },
+    {
+      "name": "映迷|点播",
+      "type": 1,
+      "api": "https://www.inmi.app/api.php/provide/vod/at/xml"
+    },
+    {
+      "name": "官网|点播",
+      "type": 1,
+      "api": "http://gwcms.cttv.vip/api.php/provide/vod/"
+    },
+    {
+      "name": "小黄人|点播",
+      "type": 1,
+      "api": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod/"
+    },
+    {
+      "name": "牛牛|点播",
+      "type": 1,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/"
+    },
+    {
+      "name": "丫丫|点播",
+      "type": 1,
+      "api": "https://cj.yayazy.net/api.php/provide/vod/"
+    },
+    {
+      "name": "影图|点播",
+      "type": 1,
+      "api": "https://cj.vodimg.top/api.php/provide/vod/"
+    },
+    {
+      "name": "阿里|点播",
+      "type": 1,
+      "api": "http://aliys.cn:90/api.php/provide/vod/"
+    },
+    {
+      "name": "小猫咪|点播",
+      "type": 1,
+      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/"
+    },
+    {
+      "name": "U酷|点播",
+      "type": 1,
+      "api": "https://api.ukuapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "豪华|点播",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "极速|点播",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "索尼|点播",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "ikun|点播",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "非凡|点播",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "量子|点播",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "暴风|点播",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "红牛|点播",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/"
+    },
+    {
+      "name": "飞速|点播",
+      "type": 1,
+      "api": "https://www.feisuzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "快车|点播",
+      "type": 1,
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/"
+    },
+    {
+      "name": "闪电|点播",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "樱花|点播",
+      "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/"
+    },
+    {
+      "name": "卧龙|点播",
+      "type": 1,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/"
+    },
+    {
+      "name": "飘花|点播",
+      "type": 1,
+      "api": "http://www.ahjiuman.com/api.php/provide/vod/at/json"
+    },
+    {
+      "name": "虎牙|点播",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "飘零|点播",
+      "type": 1,
+      "api": "https://p2100.net/api.php/provide/vod/"
+    },
+    {
+      "name": "无尽|点播",
+      "type": 1,
+      "api": "https://api.wujinapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "速博|点播",
+      "type": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod/"
+    },
+    {
+      "name": "魔都|点播",
+      "type": 1,
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod/"
+    },
+    {
+      "name": "最大|点播",
+      "type": 1,
+      "api": "http://zuidazy.me/api.php/provide/vod/"
+    },
+    {
+      "name": "火狐|点播",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "新浪|点播",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/"
+    },
+    {
+      "name": "森林资源|AV",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod/"
+    },
+    {
+      "name": "探探资源|AV",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/"
+    },
+    {
+      "name": "奥斯卡资源|AV",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/"
+    },
+    {
+      "name": "老鸭资源|AV",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/"
+    },
+    {
+      "name": "皇冠|AV",
+      "type": 1,
+      "api": "https://hghhh.com/api.php/provide/vod/"
+    },
+    {
+      "name": "91麻豆|AV",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/"
+    },
+    {
+      "name": "易看资源|AV",
+      "type": 1,
+      "api": "https://api.yikanapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "皇冠资源|AV",
+      "type": 1,
+      "api": "https://hghhh.com/api.php/provide/vod/"
+    },
+    {
+      "name": "91md|AV",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/"
+    },
+    {
+      "name": "番号资源|AV",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/"
+    },
+    {
+      "name": "鲨鱼资源|AV",
+      "type": 1,
+      "api": "https://shayuapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "KK写真资源|AV",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/"
+    },
+    {
+      "name": "AIvin|AV",
+      "type": 1,
+      "api": "http://lbapiby.com/api.php/provide/vod/at/json"
+    },
+    {
+      "name": "好色资源|AV",
+      "type": 1,
+      "api": "https://haosezyw.com/api.php/provide/vod/"
+    },
+    {
+      "name": "最色资源|AV",
+      "type": 1,
+      "api": "https://zszyw.top/api.php/provide/vod/"
+    },
+    {
+      "name": "色色虎资源|AV",
+      "type": 1,
+      "api": "https://apisesehuzy.com/api.php/provide/vod/"
+    },
+    {
+      "name": "黄瓜资源|AV",
+      "type": 1,
+      "api": "https://www.zy018.com/api.php/provide/vod/"
+    },
+    {
+      "name": "玉兔资源|AV",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/"
+    },
+    {
+      "name": "麻豆视频|AV",
+      "type": 1,
+      "api": "http://www.madouse.la/api.php/provide/vod/"
+    },
+    {
+      "name": "辣椒资源|AV",
+      "type": 1,
+      "api": "https://apilj.com/api.php/provide/vod/"
+    },
+    {
+      "name": "甜蜜资源|AV",
+      "type": 1,
+      "api": "https://timizy10.cc/api.php/provide/vod/"
+    },
+    {
+      "name": "奶香香|AV",
+      "type": 1,
+      "api": "https://Naixxzy.com/api.php/provide/vod/"
+    },
+    {
+      "name": "精品资源|AV",
+      "type": 1,
+      "api": "https://www.jingpinx.com/api.php/provide/vod/"
+    },
+    {
+      "name": "甜蜜资源|AV",
+      "type": 1,
+      "api": "https://timizy10.cc/api.php/provide/vod/"
+    },
+    {
+      "name": "草榴资源|AV",
+      "type": 1,
+      "api": "https://www.caoliuzyw.com/api.php/prodao/vod/"
+    },
+    {
+      "name": "老色逼资源|AV",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod/"
+    },
+    {
+      "name": "低端|VOD",
+      "type": 3,
+      "api": "csp_Ddrk"
+    },
+    {
+      "name": "厂长|VOD",
+      "type": 3,
+      "api": "csp_Czsapp"
+    },
+    {
+      "name": "哔嘀|VOD",
+      "type": 3,
+      "api": "csp_Bdys"
+    },
+    {
+      "name": "欧乐|VOD🪜",
+      "type": 3,
+      "api": "csp_Olevod"
+    },
+    {
+      "name": "独播库|VOD",
+      "type": 3,
+      "api": "csp_duboku"
+    },
+    {
+      "name": "在线之家|VOD",
+      "type": 3,
+      "api": "csp_Zxzj"
+    },
+    {
+      "name": "LIBVIO|VOD",
+      "type": 3,
+      "api": "csp_libvio"
+    },
+    {
+      "name": "AGE动漫|VOD",
+      "type": 3,
+      "api": "csp_age"
+    },
+    {
+      "name": "ギリギリ动漫|VOD",
+      "type": 3,
+      "api": "csp_girlgirllove"
+    },
+    {
+      "name": "4k-av",
+      "type": 3,
+      "api": "csp_4kav",
+      "ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js",
+      "ext2": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/tv/js/4kav.js"
+    },
+    {
+      "name": "韓劇看看",
+      "type": 3,
+      "api": "csp_hjkk",
+      "ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hjkk.js",
+      "ext2": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/tv/js/hjkk.js"
+    },
+    {
+      "name": "金牌影院",
+      "type": 3,
+      "api": "csp_jpyy",
+      "ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jpyy.js",
+      "ext2": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/tv/js/jpyy.js"
+    },
+    {
+      "name": "燒火電影",
+      "type": 3,
+      "api": "csp_saohuo",
+      "ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/saohuo.js",
+      "ext2": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/tv/js/saohuo.js"
+    },
+    {
+      "name": "素白白影視",
+      "type": 3,
+      "api": "csp_subaibai",
+      "ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/subaibai.js",
+      "ext2": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/tv/js/subaibai.js"
+    },
+    {
+      "name": "兩個BT",
+      "type": 3,
+      "api": "csp_bttwo",
+      "ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/bttwo.js",
+      "ext2": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/tv/js/bttwo.js"
+    },
+    {
+      "name": "NO視頻",
+      "type": 3,
+      "api": "csp_novipnoad",
+      "ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/novipnoad.js",
+      "ext2": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/tv/js/novipnoad.js"
+    },
+    {
+      "name": "星芽短劇",
+      "type": 3,
+      "api": "csp_xingya",
+      "ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xingya.js",
+      "ext2": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/tv/js/xingya.js"
+    },
+    {
+      "name": "瓜子",
+      "type": 3,
+      "api": "csp_guazi",
+      "ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/gzys.js",
+      "ext2": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/tv/js/gzys.js"
+    },
+    {
+      "name": "anfuns",
+      "type": 3,
+      "api": "csp_anfuns",
+      "ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/anfuns.js",
+      "ext2": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/tv/js/anfuns.js"
+    },
+    {
+      "name": "愛壹帆",
+      "type": 3,
+      "api": "csp_iyftv",
+      "ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/iyftv.js",
+      "ext2": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/tv/js/iyftv.js"
+    },
+    {
+      "name": "短劇天堂",
+      "type": 3,
+      "api": "csp_duanjutt",
+      "ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/duanjutt.js"
+    },
+    {
+      "name": "天天影視",
+      "type": 3,
+      "api": "csp_tiantian",
+      "ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/tiantian.js",
+      "ext2": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/tv/js/tiantian.js"
+    },
+    {
+      "name": "囧次元",
+      "type": 3,
+      "api": "csp_jcy",
+      "ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jcy.js"
+    },
+    {
+      "name": "小蘋果",
+      "type": 3,
+      "api": "csp_apple",
+      "ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/apple.js"
+    },
+    {
+      "name": "MISSAV",
+      "type": 3,
+      "api": "csp_Missav"
+    },
+    {
+      "name": "麻豆社",
+      "type": 3,
+      "api": "csp_madou",
+      "ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/madou.js"
+    },
+    {
+      "name": "玩偶姐姐",
+      "type": 3,
+      "api": "csp_hkdoll",
+      "ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hkdoll.js"
+    },
+    {
+      "name": "小纸条|网盘",
+      "type": 3,
+      "api": "csp_Gitcafe"
+    },
+    {
+      "name": "玩偶哥哥|网盘",
+      "type": 3,
+      "api": "csp_WoGG"
+    },
+    {
+      "name": "阿里小站|网盘",
+      "type": 3,
+      "api": "csp_pan666"
+    },
+    {
+      "name": "云盘资源|网盘",
+      "type": 3,
+      "api": "csp_yunpan"
+    },
+    {
+      "name": "南風短劇 | PAN",
+      "type": 3,
+      "api": "csp_nanfdj",
+      "ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/nanfdj.js"
+    }
+  ]
+}
